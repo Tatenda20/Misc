@@ -1,33 +1,29 @@
 import java.util.Arrays;
 
-// this does not work as intended
 public class RemoveDuplicates
 {
     public static void main(String[] args)
     {
         int [] arr = {0,0,1,1,1,2,2,3,3,4};
-        System.out.println(removeDuplicates(arr));
-        System.out.println(Arrays.toString(arr));
+        removeDuplicates(arr);
     }
 
     public static int removeDuplicates(int[] nums)
     {
-        int length = nums.length;
-        if(length < 1)
+        int counter = 0;
+        for(int i = 1; i < nums.length; i++)
             {
-            return 0;
-            }
-
-        int i = 0;
-        for(int j = 1; j < length; j++)
-            {
-            if(nums[j] != nums[i])
+            if(nums[i] != nums[counter])
                 {
-                i++;
-                nums[i] = nums[j];
+                counter++;
+                nums[counter] = nums[i];
                 }
             }
-        System.out.println(Arrays.toString(nums));
-        return i + 1;
+
+        for(int k = 0; k < counter; k++)
+            {
+            System.out.print(nums[k]);
+            }
+        return counter;
     }
 }
