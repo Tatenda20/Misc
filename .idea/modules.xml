@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CheckDouble/CheckDouble.iml" filepath="$PROJECT_DIR$/CheckDouble/CheckDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuplicateZeros/DuplicateZeros.iml" filepath="$PROJECT_DIR$/DuplicateZeros/DuplicateZeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertPosition/InsertPosition.iml" filepath="$PROJECT_DIR$/InsertPosition/InsertPosition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Isogram/Isogram.iml" filepath="$PROJECT_DIR$/Isogram/Isogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JewelsAndStones/JewelsAndStones.iml" filepath="$PROJECT_DIR$/JewelsAndStones/JewelsAndStones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListNode/ListNode.iml" filepath="$PROJECT_DIR$/ListNode/ListNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" filepath="$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeTwoSortedArrays/MergeTwoSortedArrays.iml" filepath="$PROJECT_DIR$/MergeTwoSortedArrays/MergeTwoSortedArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Misc.iml" filepath="$PROJECT_DIR$/.idea/Misc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneTwo/OneTwo.iml" filepath="$PROJECT_DIR$/OneTwo/OneTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator/Operator.iml" filepath="$PROJECT_DIR$/Operator/Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveElement/RemoveElement.iml" filepath="$PROJECT_DIR$/RemoveElement/RemoveElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseWords/ReverseWords.iml" filepath="$PROJECT_DIR$/ReverseWords/ReverseWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RunLengthEncoding/RunLengthEncoding.iml" filepath="$PROJECT_DIR$/RunLengthEncoding/RunLengthEncoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShuffleString/ShuffleString.iml" filepath="$PROJECT_DIR$/ShuffleString/ShuffleString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleRowKeyboard/SingleRowKeyboard.iml" filepath="$PROJECT_DIR$/SingleRowKeyboard/SingleRowKeyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfString/SumOfString.iml" filepath="$PROJECT_DIR$/SumOfString/SumOfString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserLikes/UserLikes.iml" filepath="$PROJECT_DIR$/UserLikes/UserLikes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordLength/WordLength.iml" filepath="$PROJECT_DIR$/WordLength/WordLength.iml" />
+    </modules>
+  </component>
+</project>
